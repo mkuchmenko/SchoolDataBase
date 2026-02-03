@@ -4,7 +4,7 @@ from csv import DictWriter
 
 with open("config.txt", "r") as file:
     min_score = int(file.read())
-print(min_score)
+
 
 with open('students.csv', "r", encoding='utf-8') as file:
     data=list(csv.DictReader(file, delimiter=","))
@@ -31,7 +31,3 @@ for st in  success_list:
 
 with open('best_students.json', 'w', encoding='utf-8') as jsonfile:
     json.dump(success_list, jsonfile, ensure_ascii=False, indent=2)
-
-
-
-
