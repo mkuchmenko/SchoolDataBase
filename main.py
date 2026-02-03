@@ -14,7 +14,7 @@ with open('students.csv', "r", encoding='utf-8') as file:
 retest_list=[]
 success_list=[]
 for st in data:
-    if st['score']<85:
+    if st['score']<min_score:
         retest_list.append(st)
     else:
         success_list.append(st)
