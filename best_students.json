@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1",
+    "name": "Олександр",
+    "surname": "Коваленко",
+    "score": 92,
+    "passed": "True"
+  },
+  {
+    "id": "3",
+    "name": "Іван",
+    "surname": "Сидоренко",
+    "score": 88,
+    "passed": "True"
+  },
+  {
+    "id": "5",
+    "name": "Дмитро",
+    "surname": "Ткаченко",
+    "score": 95,
+    "passed": "True"
+  },
+  {
+    "id": "8",
+    "name": "Юлія",
+    "surname": "Бондаренко",
+    "score": 98,
+    "passed": "True"
+  },
+  {
+    "id": "10",
+    "name": "Вікторія",
+    "surname": "Лисенко",
+    "score": 90,
+    "passed": "True"
+  },
+  {
+    "id": "11",
+    "name": "Максим",
+    "surname": "Поліщук",
+    "score": 85,
+    "passed": "True"
+  },
+  {
+    "id": "13",
+    "name": "Павло",
+    "surname": "Гончаренко",
+    "score": 93,
+    "passed": "True"
+  },
+  {
+    "id": "15",
+    "name": "Владислав",
+    "surname": "Козак",
+    "score": 89,
+    "passed": "True"
+  },
+  {
+    "id": "16",
+    "name": "Анастасія",
+    "surname": "Руденко",
+    "score": 91,
+    "passed": "True"
+  },
+  {
+    "id": "18",
+    "name": "Софія",
+    "surname": "Гаврилюк",
+    "score": 99,
+    "passed": "True"
+  },
+  {
+    "id": "20",
+    "name": "Катерина",
+    "surname": "Павленко",
+    "score": 87,
+    "passed": "True"
+  },
+  {
+    "id": "22",
+    "name": "Аліна",
+    "surname": "Клименко",
+    "score": 94,
+    "passed": "True"
+  },
+  {
+    "id": "24",
+    "name": "Діана",
+    "surname": "Яковенко",
+    "score": 86,
+    "passed": "True"
+  },
+  {
+    "id": "25",
+    "name": "Роман",
+    "surname": "Карпенко",
+    "score": 96,
+    "passed": "True"
+  }
+]
